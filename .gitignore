@@ -1,20 +1,5 @@
-# Ignore node_modules
-/node_modules
-
-# Ignore build output
-/build
-
-# Ignore cache files
-.cache/
-
-# Log files
-*.log
-
-# System files
+node_modules/ 
+public/
 .DS_Store
-Thumbs.db
-
-# Optional: Editor folders
+dist/
 .vscode/
-.idea/
-
